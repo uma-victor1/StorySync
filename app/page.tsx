@@ -1,14 +1,5 @@
 export default function Home() {
   return (
-    <main className="">
-      yooooooooo
-      <button
-        // onClick={() => {}}
-        type="button"
-        className="p-2 border border-red-500 ml-4"
-      >
-        toggle
-      </button>
-    </main>
+    <main className="flex min-h-screen w-full flex-col gap-8 pb-0 pt-6"></main>
   );
 }
