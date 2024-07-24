@@ -6,7 +6,6 @@ import OurUsers from "@/components/OurUsers/OurUsers";
 import Readers from "@/components/Readers/Readers";
 import Services from "@/components/Services";
 import Testimonials from "@/components/Testimonials/Testimonials";
-import { Contact } from "lucide-react";
 
 export default function Home() {
   return (
@@ -19,7 +18,6 @@ export default function Home() {
       <FindKeyword />
       <Testimonials />
       <Readers />
-      <Contact />
     </main>
   );
 }
