@@ -36,7 +36,7 @@ const Landing = () => {
             </h1>
             <p className="mb-8 text-center text-lg font-normal text-gray-500 dark:text-gray-400 sm:px-16 lg:text-xl xl:px-48">
               We are committed to helping you drive growth by creating engaging
-              and impactful content tailored to your business or product needs
+              and impactful content tailored to your business or product needs.
             </p>
             {/* cta */}
             <div className="flex items-center gap-4">
